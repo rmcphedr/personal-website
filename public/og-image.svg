@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0b1113"/>
+  <g stroke="#26373a" stroke-width="1"><path d="M0 110h1200M0 220h1200M0 330h1200M0 440h1200M0 550h1200M110 0v630M220 0v630M330 0v630M440 0v630M550 0v630M660 0v630M770 0v630M880 0v630M990 0v630M1100 0v630"/></g>
+  <circle cx="972" cy="315" r="210" fill="none" stroke="#24494c"/>
+  <circle cx="972" cy="315" r="140" fill="none" stroke="#24494c"/>
+  <g stroke="#74cfc0" stroke-width="1" opacity=".65"><path d="M815 247L942 174L1040 246L1120 330L1005 395L880 372Z"/><path d="M815 247L1005 395M942 174L880 372M1040 246L880 372"/></g>
+  <g fill="#9be8d9"><circle cx="815" cy="247" r="5"/><circle cx="942" cy="174" r="5"/><circle cx="1040" cy="246" r="5"/><circle cx="1120" cy="330" r="5"/><circle cx="1005" cy="395" r="5"/><circle cx="880" cy="372" r="5"/></g>
+  <text x="90" y="90" fill="#9be8d9" font-family="monospace" font-size="17" letter-spacing="5">RESEARCH × ENGINEERING</text>
+  <text x="84" y="345" fill="#edf4ef" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="88">Ryan</text>
+  <text x="84" y="443" fill="#edf4ef" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="88">McPhedrain<tspan fill="#9be8d9">.</tspan></text>
+  <text x="90" y="523" fill="#99a9a7" font-family="Arial, Helvetica, sans-serif" font-size="23">Neuroscientist · AI Engineer · Independent Consultant</text>
+</svg>
