@@ -22,7 +22,10 @@ export function SiteHeader() {
     <header className="site-header">
       <div className="shell header-inner">
         <Link href="/" className="brand" aria-label="Ryan McPhedrain, home" onClick={() => setOpen(false)}>
-          <span className="brand-mark" aria-hidden="true"><span /></span>
+          <svg className="brand-mark" viewBox="0 0 32 32" aria-hidden="true" focusable="false">
+            <polygon points="16,1 29,8.5 29,23.5 16,31 3,23.5 3,8.5" fill="none" stroke="currentColor" strokeWidth="1.2" />
+            <polygon points="16,10.5 21,13.25 21,18.75 16,21.5 11,18.75 11,13.25" fill="currentColor" />
+          </svg>
           <span>RYAN MCPHEDRAIN<span className="brand-dot">.</span></span>
         </Link>
         <nav className="desktop-nav" aria-label="Primary navigation">

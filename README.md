@@ -25,7 +25,7 @@ The static site is written to `out/`. Deploy that directory to any static host. 
 ## Content and launch notes
 
 - Edit `src/data/projects.ts` to update project copy, categories, technologies, and architecture lists.
-- The About page intentionally uses placeholders for a portrait, CV, LinkedIn, and GitHub. The Contact page intentionally has no invented address or form destination.
+- The About page includes a portrait, résumé download, LinkedIn, and GitHub. The Contact page links to the social profiles and provides a clickable email address; no phone number is displayed there.
 - The Lab page labels every experiment as planned.
 - Set `NEXT_PUBLIC_SITE_URL` to the final HTTPS origin before deployment so Open Graph image URLs resolve to the production domain.
 - Replace or supplement the generated SVG project visuals and Open Graph image as real assets become available.
